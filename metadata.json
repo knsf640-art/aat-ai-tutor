@@ -1,0 +1,6 @@
+{
+  "name": "AAT AI Tutor",
+  "description": "An AI-powered step-by-step problem solver for AAT accounting students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
